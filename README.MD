@@ -6,8 +6,8 @@ Muestra 5 gifs de una categoria que desees buscar, por ejemplo esta por defecto 
 
 pueden ver el resultado directamente en:
 
-- [opcion 1](https://jomadot.github.io/react-gif/)
-- [opcion 1](https://gif-app-cool.netlify.app/)
+- [opcion 1 - GITHUB PAGES](https://jomadot.github.io/react-gif/)
+- [opcion 2 - NETLIFY](https://gif-app-cool.netlify.app/)
 
 Estoy utilizando:
 
