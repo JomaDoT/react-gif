@@ -4,6 +4,11 @@ Proyecto de practica de react
 
 Muestra 5 gifs de una categoria que desees buscar, por ejemplo esta por defecto goku.
 
+pueden ver el resultado directamente en:
+
+- [opcion 1](https://jomadot.github.io/react-gif/)
+- [opcion 1](https://gif-app-cool.netlify.app/)
+
 Estoy utilizando:
 
 - vite.
@@ -18,4 +23,6 @@ Estoy utilizando:
 - props.
 - helpers.
 - giphy api.
+- netlify.
+- github pages.
 - and others.
