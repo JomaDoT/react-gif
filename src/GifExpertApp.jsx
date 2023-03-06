@@ -2,7 +2,7 @@ import { useState } from "react";
 import { AddCategory, GifGrid } from "./components";
 
 export const GitfExpertApp = () => {
-  const [categories, setcategories] = useState(["one punch"]);
+  const [categories, setcategories] = useState(["Goku"]);
 
   const onAddCategory = (valor = "") => {
     if (categories.includes(valor)) return;
