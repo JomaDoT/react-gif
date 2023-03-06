@@ -6,16 +6,16 @@ Muestra 5 gifs de una categoria que desees buscar, por ejemplo esta por defecto 
 
 Estoy utilizando:
 
-- vite,
-- node,
-- javascript,
-- html,
-- css,
-- jsx,
-- components,
-- hooks,
-- customhooks,
-- props,
-- helpers,
-- giphy api,
-- and others
+- vite.
+- node.
+- javascript.
+- html.
+- css.
+- jsx.
+- components.
+- hooks.
+- customhooks.
+- props.
+- helpers.
+- giphy api.
+- and others.
