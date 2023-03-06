@@ -2,17 +2,17 @@
 
 este es mi proyecto de practica de react
 
-uso:
+Estoy utilizando:
 
 - vite,
 - node,
-  javascript,
-  html,
-  css,
-  jsx,
-  components,
-  hooks,
-  customhooks,
-  props,
-  helpers,
-  and others
+- javascript,
+- html,
+- css,
+- jsx,
+- components,
+- hooks,
+- customhooks,
+- props,
+- helpers,
+- and others
