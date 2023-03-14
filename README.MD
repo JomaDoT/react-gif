@@ -22,6 +22,8 @@ Estoy utilizando:
 - customhooks.
 - props.
 - helpers.
+- jest
+- testing-library
 - giphy api.
 - netlify.
 - github pages.
