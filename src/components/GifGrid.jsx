@@ -1,5 +1,6 @@
 import { useFetchGifs } from "../hooks/useFetchGifs";
-import { GifGridItems } from "./GifGridItems";
+import { GifItems } from "./GifItems";
+import PropTypes from "prop-types";
 
 export const GifGrid = ({ category }) => {
   const { images, isLoading } = useFetchGifs(category);
@@ -12,9 +13,13 @@ export const GifGrid = ({ category }) => {
         {images.map((img) => (
           //el key se necesita para identificar cada component
           //{...img}  hace la desestructuracion de todas las propiedades que contiene el img par mandarlo al componente
-          <GifGridItems key={img.id} {...img} />
+          <GifItems key={img.id} {...img} />
         ))}
       </div>
     </>
   );
 };
+
+GifGrid.propTypes ={
+  category: PropTypes.string.isRequired
+}

@@ -2,7 +2,7 @@
 
 Proyecto de practica de react
 
-Muestra 5 gifs de una categoria que desees buscar, por ejemplo esta por defecto goku.
+Muestra 5 gifs de una categoria que desees buscar, por ejemplo esta por defecto Dominicano.
 
 pueden ver el resultado directamente en:
 
